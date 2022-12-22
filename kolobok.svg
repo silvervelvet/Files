@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Practical task â„–30 (kolobok)</title>
+  <title>Practical task ¹30 (kolobok)</title>
   <style>
     
     .container-title {
@@ -120,7 +120,7 @@
 
 <body>
 
-    <svg class="container-title">
+    <svg class="container-title" xmlns="http://www.w3.org/2000/svg">
       <ellipse class="shadow shadow-fox"></ellipse>
       <circle class="element-fox__body"></circle>
       <ellipse class="element-fox__tail"></ellipse>
